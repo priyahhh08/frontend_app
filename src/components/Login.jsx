@@ -18,4 +18,4 @@ function Login() {
     </div>
   );
 }
-export default Log
+export default Login;
